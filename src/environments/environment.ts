@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyA1xuVBWnqkS4itZvIgUdwmMlY6GJKJE5o',
-    authDomain: 'nino-training.firebaseapp.com',
-    databaseURL: 'https://nino-training.firebaseio.com',
-    projectId: 'nino-training',
-    storageBucket: 'nino-training.appspot.com',
-    messagingSenderId: '56706715392',
-    appId: '1:56706715392:web:18cd02fbd2797457'
+    apiKey: 'AIzaSyAhTKsBWB7y6PueZyk-WiE-DUijy6d9Asg',
+    authDomain: 'fir-app-a0fc9.firebaseapp.com',
+    databaseURL: 'https://fir-app-a0fc9.firebaseio.com',
+    projectId: 'fir-app-a0fc9',
+    storageBucket: 'fir-app-a0fc9.appspot.com',
+    messagingSenderId: '532700793786',
+    appId: '1:532700793786:web:53acc0fc8111b2c3'
   }
 };
 
